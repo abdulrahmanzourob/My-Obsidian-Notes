@@ -7,27 +7,27 @@
 ## 📂 Table of Contents
 
 ### 🔹 Bash Basics
-- [Basic Commands](fundamentals/Basic%20Command.md)
-- [Find Command](fundamentals/Find.md)
-- [File Commands](fundamentals/File%20Command.md)
-- [ls Command](fundamentals/ls%20Command.md)
-- [ls -R (Recursive Listing)](fundamentals/ls-R.md)
+- Basic Commands
+- Find Command
+- File Commands
+- ls Command
+- ls -R (Recursive Listing)
 
 ### 🔹 Text Processing & Filters
-- [grep, sort, uniq, strings, base64, tr, tar, gzip](fundamentals/Text%20Processing.md)
+- grep, sort, uniq, strings, base64, tr, tar, gzip
 
 ### 🔹 Security & Scripting
-- [OverTheWire Challenges](fundamentals/OverTheWire.md)
-- [SSH Basics](fundamentals/ssh.md)
-- [SSH Lab](fundamentals/ssh%20lab.md)
-- [tmux - Terminal Multiplexer](fundamentals/tmux.md)
-- [usr-local-bin Directory](fundamentals/usr-local-bin.md)
+- OverTheWire Challenges
+- SSH Basics
+- SSH Lab
+- tmux - Terminal Multiplexer
+- usr-local-bin Directory
 
 ### 🔹 Advanced Topics
-- [ROT13 Encoding](fundamentals/ROT13.md)
-- [Hidden Files & Special Names](fundamentals/Hidden%20Files.md)
-- [Handling Filenames with Spaces](fundamentals/File%20has%20spaces%20in%20his%20name.md)
-- [Extracting Archives - tar, xvf](fundamentals/tar-xvf.md)
+- ROT13 Encoding
+- Hidden Files & Special Names
+- Handling Filenames with Spaces
+- Extracting Archives - tar, xvf
 
 ---
 
@@ -37,8 +37,8 @@ This repository also includes a **photos** directory containing images related t
 ---
 
 ## 🚀 Learning Resources
-- [OverTheWire Wargames](https://overthewire.org/wargames/)
-- [Linux Bash Scripting Guide](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- OverTheWire Wargames
+- Linux Bash Scripting Guide
 
 ---
 
